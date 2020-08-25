@@ -1,4 +1,0 @@
-svg
-cariosvg
-pycairo
-git+http://anongit.freedesktop.org/git/pycairo
